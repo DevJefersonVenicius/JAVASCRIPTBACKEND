@@ -2,7 +2,8 @@
 /* 
 barra e asterisco para comentario de bloco */
 
-let primeiraVariavel // está indefinida com let
+let variavelDois // está indefinida com let
+let primeiraVariavel 
 primeiraVariavel = 'Amontada Valley'
 console.log(primeiraVariavel)
 
