@@ -11,3 +11,4 @@ console.log(nome[0] + nome[6] + nome[5] + nome[1]) // Juntando strings por indic
 let sobrenome = 'Venicius'
 console.log(nome + ' ' + sobrenome) // Concatenando duas variaveis
 console.log(`${nome + ' ' + sobrenome} `) // Interpolando variaveis
+    
