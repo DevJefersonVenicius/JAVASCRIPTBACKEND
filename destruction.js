@@ -21,3 +21,15 @@ console.log(nomeDoElvis)
 // os dados do dicionario podem ser modificados
 nomeDoElvis = 'TioElvis'
 console.log(nomeDoElvis)
+// forma convencional de utilizar um Array
+let nomes = ['Alice', 'Francisco', 'Felipe', 'Mikael']
+console.log(nomes[1])
+let nomeFrancisco = nomes[1]
+console.log(nomeFrancisco)
+// Desconstrução de Arrays
+let [nome1, nome2] = nomes // com Arrays não podemos escolher o indice, iniciando sempre no 0
+console.log(nome1)
+console.log(nome2)
+let {0:nomeAlice, 2:nomeFelipe} = nomes // com objetos podemos escolher os indices do Array
+console.log(nomeAlice)
+console.log(nomeFelipe)
