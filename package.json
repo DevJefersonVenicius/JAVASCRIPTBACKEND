@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "javascriptbackend",
+  "version": "1.0.0",
+  "description": "Conta do bolsa familia",
+  "main": "array.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeferson Venicius",
+  "license": "ISC",
+  "type": "module"
 }
