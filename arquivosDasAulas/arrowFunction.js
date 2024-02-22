@@ -1,4 +1,4 @@
-// Funções Interais
+// Funções literais
 function soma(a, b) {
     return a + b
 }
