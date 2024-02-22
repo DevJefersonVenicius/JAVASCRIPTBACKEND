@@ -1,5 +1,6 @@
 // Faça um codigo que identifique um Palíndromo. EX: radar; arara; ele; ama.
-const prompt = require('prompt-sync')()
+import promptSync from 'prompt-sync'
+const prompt = promptSync()
 const palavra = prompt('Digite uma palavra: ').toUpperCase()
 const palavraReversa = palavra.split('').reverse().join('')
 if (palavraReversa === palavra) {

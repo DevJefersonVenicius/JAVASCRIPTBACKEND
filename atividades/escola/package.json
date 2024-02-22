@@ -1,12 +1,8 @@
 {
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  },
-  "name": "javascriptbackend",
+  "name": "escola",
   "version": "1.0.0",
-  "description": "Conta do bolsa familia",
-  "main": "array.js",
-  "devDependencies": {},
+  "description": "Escola",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
