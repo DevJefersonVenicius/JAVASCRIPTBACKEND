@@ -91,6 +91,9 @@ export class Veiculos {
             }
         }
     }
+    /**
+     * @param {any} novoPreco
+     */
     set alterarPreco(novoPreco) {
         this._preco = novoPreco
     }
