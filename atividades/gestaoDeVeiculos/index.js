@@ -43,3 +43,13 @@ civic.alterarTaxaDeEmplacamento = 6000
 civic.alterarEmplacamento = true
 civic.alterarPlaca = 'YUT-0945'
 console.table(civic)
+
+
+console.log('==========================')
+civic.alterarStatusDeVenda = true
+civic.alterarQuantidadeDeVeiculos = -2
+civic.alterarTaxaDeEmplacamento = 6000.00
+civic.alterarEmplacamento = true
+civic.alterarPlaca = ['WER-1521', 'TYG-5432']
+
+console.table(civic)
