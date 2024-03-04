@@ -1,0 +1,12 @@
+{
+  "name": "sistemadegerenciamentocleandrive",
+  "version": "1.0.0",
+  "description": "Sistema de gestão do lava jato CleanDrive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeferson Venicius",
+  "license": "ISC",
+  "type": "module"
+}

@@ -17,3 +17,5 @@ console.log(entradas) // imprimindo o objeto em Arrays
 // hasOwnProperty - retorna true ou false em determinado objeto
 console.log(objeto.hasOwnProperty("idade")); // true
 console.log(objeto.hasOwnProperty("salario")); // false
+chaves.Object.values(0)
+console.log(chaves)
