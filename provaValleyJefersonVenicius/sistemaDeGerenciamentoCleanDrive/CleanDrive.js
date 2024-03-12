@@ -3,8 +3,8 @@ export class CleanDrive extends LavaJato {
     constructor(nome, localizacao, receberVeiculo) {
         super(nome, localizacao)
         this.receberVeiculo = receberVeiculo
-        this.horarioDeEntregaVeiculo = new Date('')
-        this.horarioDePrazo = new Date('')
+        this.horarioDeEntregaVeiculo = new Date()
+        this.horarioDePrazo = new Date()
     }
     get obterRecebimentoDeVeiculo() {
         return this.receberVeiculo

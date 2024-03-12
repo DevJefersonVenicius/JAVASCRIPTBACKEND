@@ -1,0 +1,12 @@
+{
+  "name": "atividadenota",
+  "version": "1.0.0",
+  "description": "Atividade valendo nota",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeferson Venicius",
+  "license": "ISC",
+  "type": "module"
+}
