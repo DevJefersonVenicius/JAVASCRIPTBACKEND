@@ -1,0 +1,24 @@
+{
+    "Objeto": {
+        "sobre": "No json podemos passar dados e tipos de dados apenas.",
+        "tipos de dados passados": "strings, numbers, booleans, null, arrays e objetos"
+    },
+    
+    "Objeto2": {
+        "nome": "Jeferson",
+        "idade": 20,
+        "casado": false,
+        "salario": null,
+        "array": ["Array dentro de objeto"],
+        "Objeto": {"Objeto dentro do objeto": "objeto"}
+    },
+
+    "Array": [
+        100, 
+        true, 
+        null, 
+        "Jeferson", 
+        ["Array dentro do array"], 
+        {"objeto dentro do array": "Objeto"}
+    ]
+}
